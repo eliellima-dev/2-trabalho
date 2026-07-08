@@ -25,5 +25,7 @@ h1 {
 article {
     background-color: aliceblue;
     border-radius: 12px;
+    padding: 20px; /* espaçamento interno */
+    margin-bottom: 20px;
 }
 
