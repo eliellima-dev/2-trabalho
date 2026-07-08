@@ -25,7 +25,16 @@ h1 {
 article {
     background-color: aliceblue;
     border-radius: 12px;
-    padding: 20px; /* espaçamento interno */
+    padding-left: 20px; /* espaçamento na esqueda*/
+    padding-right: 30px; /*espaçamento na direita*/
+    padding-top: 30px; /*espaçamento na parte de cima*/
+    padding-bottom: 40px; /*espaçamenrto na parte de baixo*/
     margin-bottom: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
 }
 
